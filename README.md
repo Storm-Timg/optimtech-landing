@@ -3,7 +3,7 @@
 Official landing page for **OptimTech AI Companion** — your future-ready personal AI tool designed for productivity, creativity, and everything in between. 🤖✨
 
 🌐 **Live Preview:**  
-👉 [optimtech.lovable.app](https://optimtech.lovable.app)
+👉 [optimtech.lovable.app](https://optim-tech.lovable.app)
 
 ---
 
